@@ -10,7 +10,7 @@ class Doja:
             ['\\front_left', '\\front', '\\front_right']
         ]
         self.x, self.y = 1, 1
-        self.path = 'Moving_Doja_Clean'
+        self.path = 'Moving_Doja'
         self.gif_frame = 0
         self.image_size = (160, 200)
     def get_direction(self, event):
